@@ -151,3 +151,38 @@ text-align: center;
 .box img {
     width: 100%;
 }
+
+/* stop */
+
+.main-container-3{
+    margin: 50px auto;
+    width: 80%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+.main-3-contant{
+    width: 30%;
+    text-align: right;
+    margin-right: ;
+}
+.main-3-contant h2{
+    font-size: 48px;
+    font-weight: bold;
+}
+.main-3-contant p{
+    width: 300px;
+}
+.main-3-image{
+    width: 50%;
+}
+.main-3-image img{
+    width: 100%;
+}
+.picture{
+    width: 40%;
+    position: relative;
+    top:-200px;
+    left:-80px;
+}
