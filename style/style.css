@@ -50,6 +50,7 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
+    margin-bottom: 40px;
 }
 
 .main-frist-contant {
@@ -96,3 +97,35 @@
     width: 100%;
 }
 /* main-frist-section-end */
+.main-middle-container{
+    text-align: center;
+    width: 80%;
+   margin: 0 auto;
+}
+.middle-span{
+    color:#FF42A5; 
+}
+.main-middle-title{
+font-size: 48px;
+margin-bottom: 0;
+}
+.main-middle-paragraph{
+
+}
+.box-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+ 
+    
+}
+.box-text{
+    width: 340px;
+}
+.box{
+    width: 100%;
+   
+}
+.box img{
+    width: 100%;
+}
