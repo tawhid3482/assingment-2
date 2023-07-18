@@ -1,0 +1,97 @@
+/* header-section-style */
+.nav-container {
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.nav-logo {
+    width: 50%;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.nav-span {
+    color: #FF42A5;
+}
+
+.nav-paragraph {
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.nav-items {
+    width: 50%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-size: 18px;
+}
+
+.nav-items a {
+    text-decoration: none;
+}
+
+.nav-icon {
+    display: flex;
+    gap: 10px;
+    border-radius: 6px;
+    background: rgba(11, 2, 35, 0.10);
+    padding: 10px;
+}
+
+/* header section end */
+.main-frist-container {
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.main-frist-contant {
+    width: 50%;
+
+}
+
+.main-frist-header {
+    font-size: 45px;
+    font-size: 600;
+ 
+}
+
+.main-frist-header-2 {
+    font-size: 95px;
+    font-weight: 800;
+    margin: 0;
+    background: linear-gradient(180deg, #F948B2 0%, #8758F1 100%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.main-frist-paragraph{
+    font-size: 20px;
+    font-weight: 500;
+}
+.btn{
+   padding: 15px 22px;
+   border-radius: 48px;
+   border: none;
+   margin-right: 20px;
+}
+.btn1{
+    background-color:#FF42A5;
+}
+.btn2{
+    background-color:#4EC5F7;
+}
+.main-frist-image {
+    width: 50%;
+}
+
+.main-frist-image img {
+    width: 100%;
+}

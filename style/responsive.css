@@ -1,0 +1,24 @@
+@media screen and (max-width:576px) {
+    .nav-container,
+    .nav-items,
+    .main-frist-container{
+        flex-direction: column;
+    }
+    .nav-items a {
+        margin-bottom: 25px;
+    }
+    .nav-icon{
+        display: block;
+    
+    }
+    .main-frist-container{
+        flex-direction: column-reverse;
+    }
+    .main-frist-image{
+        width: 100%;
+    }
+    .main-frist-contant{
+        width: 100%;
+        text-align: center;
+    }
+}
