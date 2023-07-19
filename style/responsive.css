@@ -87,7 +87,9 @@
         width: 80%;
 
     }
-
+.box-under-text p{
+    width: 250px;
+}
     .middle-paragraph {
         font-size: 12px;
         text-align: center;
