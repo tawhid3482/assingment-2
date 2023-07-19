@@ -3,7 +3,7 @@
     .nav-container,
     .nav-items,
     .main-frist-container,
-    .box-container,
+   .main-middle-container,
     .main-container-3 {
         flex-direction: column;
     }
@@ -44,6 +44,19 @@
         position: relative;
         top: -130px;
         left: -50px;
+    }
+    .main-middle-container{
+        width: 80%;
+   
+    }
+ 
+    .main-middle-content .main-middle-header{
+        font-size: 35px;
+    }
+    .main-middle-container .box-under-text{
+        width: 60%;
+        margin: 1 auto;
+      
     }
     .main-last-container{
         width: 80%;
