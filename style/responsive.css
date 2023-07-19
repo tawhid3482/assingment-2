@@ -76,15 +76,18 @@
         width: 80%;
 
     }
-
+    .middle-paragraph{
+        font-size: 12px;
+        text-align: center;
+    }
     .main-middle-content .main-middle-header {
-        font-size: 35px;
+        font-size: 26px;
     }
 
     .main-middle-container .box-under-text {
-        width: 60%;
+        width: 100%;
         margin: 1 auto;
-        text-align: center;
+      
 
     }
 
