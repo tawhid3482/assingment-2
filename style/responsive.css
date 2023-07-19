@@ -54,7 +54,9 @@
         text-align: center;
         margin-bottom: 50px;
     }
-
+.main-3-contant h2{
+    font-size: 40px;
+}
     .main-3-contant P {
         text-align: center;
         margin-left: 0px;
@@ -76,6 +78,7 @@
         width: 80%;
 
     }
+   
     .middle-paragraph{
         font-size: 12px;
         text-align: center;
