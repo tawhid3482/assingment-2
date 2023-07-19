@@ -126,6 +126,8 @@
 
     .footer-container {
         width: 80%;
+        margin: 0 auto;
+        padding: 15px;
     }
 
     .footer-text {
@@ -169,7 +171,9 @@
         width: 80%;
 
     }
-
+.main-frist-header-2{
+    font-size: 75px;
+}
 
     .main-frist-contant {
         text-align: center;
