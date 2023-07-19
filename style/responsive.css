@@ -9,7 +9,20 @@
     .main-container-3 {
         flex-direction: column;
     }
-
+    .nav-container{
+        width: 80%;
+       
+    }
+    .nav-logo img{
+        width: 40%;
+    }
+    .nav-logo, .nav-paragraph{
+        
+     display: flex;
+     justify-content: center;
+     align-items: center;
+      
+    }
     .nav-items a {
         margin-bottom: 25px;
     }
