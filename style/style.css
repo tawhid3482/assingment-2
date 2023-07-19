@@ -127,6 +127,8 @@
     height: 250px;
     display: flex;
     align-items: flex-end;
+    text-align: center;
+    position: relative;
    
 }
 
@@ -139,8 +141,47 @@
     display: inline-block;
     text-align: left;
 }
+.box1:hover .overlay {
+   
+  
+    border: 4px solid #F948B2 ;
+    border-radius: 8px;
+    background-image:url("../images/download.png"), linear-gradient(0 0 0 0.6);
+    background-color: rgba(0,0,0,0.5);
+    opacity: 1;
+   
+}
 
 
+.overlay {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 100%;
+    width: 100%;
+    opacity: 0;
+    transition: .5s ease;
+    background-color:transparent;
+  }
+  .text {
+    color: #F948B2;
+    font-size: 18px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    text-align: center;
+  }
+.overlay-image{
+    width: 30px;
+    height: 30px;
+    margin-top:80px;
+    border-radius: 50%;
+}
 
 /* stop */
 
