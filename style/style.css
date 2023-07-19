@@ -155,7 +155,7 @@ text-align: center;
 /* stop */
 
 .main-container-3{
-    margin: 50px auto;
+    margin: 50px auto 0;
     width: 80%;
     display: flex;
     align-items: center;
@@ -177,8 +177,10 @@ text-align: center;
 .main-3-image{
     width: 50%;
 }
-.main-3-image img{
+.main-3-image img {
     width: 100%;
+
+   
 }
 .picture{
     width: 40%;
@@ -186,3 +188,31 @@ text-align: center;
     top:-200px;
     left:-80px;
 }
+/* <!-- main-3-section-complete --> */
+
+/* <!-- main-lat-section-start --> */
+.main-last-container{
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  justify-content: space-around;
+   
+}
+.main-last-icon{
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+.last-icon{
+    margin:0 15px 20px 0;
+}
+.last-icon:hover{
+    border: 2px solid #FF42A5;
+    border-radius: 40px;
+    color: #FF42A5;
+    padding: 10px 15px;
+}
+/* main-last-section finish */
