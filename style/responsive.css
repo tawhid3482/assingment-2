@@ -45,4 +45,28 @@
         top: -130px;
         left: -50px;
     }
+    .main-last-container{
+        width: 80%;
+        display: grid;
+        grid-template-columns: repeat(3,1fr);
+        font-size: 12px;
+    }
+    .main-last-icon{
+        gap: 5px;
+        width: 80%;
+    }
+    .last-icon span{
+       
+        font-weight: 600;
+     
+    }
+    .last-icon img{
+        width: 30px;
+    }
+    .last-icon{
+        margin: 0 15px 15px 0;
+    }
+    .last-icon:hover{
+        padding: 2px 5px;
+    }
 }
