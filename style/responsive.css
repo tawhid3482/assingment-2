@@ -33,8 +33,14 @@
     .main-3-contant {
         width: 100%;
         text-align: center;
+        margin-bottom: 50px;
     }
 
+    .main-3-contant P{
+            text-align: center;
+            margin-left: 0px;
+
+    }
     .main-3-image {
         width: 80%;
     }
@@ -42,7 +48,7 @@
     .picture {
         width: 50%;
         position: relative;
-        top: -130px;
+        top: -110px;
         left: -50px;
     }
     .main-middle-container{
@@ -56,6 +62,7 @@
     .main-middle-container .box-under-text{
         width: 60%;
         margin: 1 auto;
+        text-align: center;
       
     }
     .main-last-container{

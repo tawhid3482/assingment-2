@@ -125,7 +125,6 @@
 .box1 {
     width: 210px;
     height: 250px;
-    text-align: center;
     display: flex;
     align-items: flex-end;
    
@@ -137,8 +136,8 @@
 
 }
 .box-under-text {
-    display: block;
-    text-align: center;
+    display: inline-block;
+    text-align: left;
 }
 
 
@@ -157,12 +156,15 @@
 .main-3-contant {
     width: 30%;
     text-align: right;
-    margin-right: ;
+    margin-bottom: 200px;
 }
 
 .main-3-contant h2 {
     font-size: 48px;
     font-weight: bold;
+}
+.middle-span{
+    color: #F948B2;
 }
 
 .main-3-contant p {
