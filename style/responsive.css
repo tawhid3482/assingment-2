@@ -69,4 +69,20 @@
     .last-icon:hover{
         padding: 2px 5px;
     }
+    .footer-container{
+        width: 80%;
+    }
+    .footer-text{
+        display: grid;
+        grid-template-columns: repeat(3,1fr);
+    }
+    .footer-content{
+        display: grid;
+        grid-template-columns: repeat(2,1fr);
+        text-align: center;
+        text-decoration: ;
+    }
+    .footer-last-paragraph{
+      
+    }
 }

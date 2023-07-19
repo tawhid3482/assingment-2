@@ -104,14 +104,16 @@
 
 /* main-frist-section-end */
 .main-middle-container {
-   
+
     width: 80%;
     margin: 0 auto;
 }
-.main-middle-contant{
-text-align: center;
+
+.main-middle-contant {
+    text-align: center;
 
 }
+
 .middle-span {
     color: #FF42A5;
 }
@@ -142,9 +144,10 @@ text-align: center;
     display: flex;
     gap: 10px;
     align-items: flex-end;
-  
+
 }
-.box1{
+
+.box1 {
     width: 100%;
 }
 
@@ -154,7 +157,7 @@ text-align: center;
 
 /* stop */
 
-.main-container-3{
+.main-container-3 {
     margin: 50px auto 0;
     width: 80%;
     display: flex;
@@ -162,57 +165,120 @@ text-align: center;
     justify-content: space-between;
 
 }
-.main-3-contant{
+
+.main-3-contant {
     width: 30%;
     text-align: right;
     margin-right: ;
 }
-.main-3-contant h2{
+
+.main-3-contant h2 {
     font-size: 48px;
     font-weight: bold;
 }
-.main-3-contant p{
+
+.main-3-contant p {
     width: 300px;
 }
-.main-3-image{
+
+.main-3-image {
     width: 50%;
 }
+
 .main-3-image img {
     width: 100%;
 
-   
+
 }
-.picture{
+
+.picture {
     width: 40%;
     position: relative;
-    top:-200px;
-    left:-80px;
+    top: -200px;
+    left: -80px;
 }
+
 /* <!-- main-3-section-complete --> */
 
 /* <!-- main-lat-section-start --> */
-.main-last-container{
+.main-last-container {
     width: 80%;
     margin: 0 auto;
     display: flex;
-  align-items: center;
-  flex-wrap: wrap;
-  justify-content: space-around;
-   
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: space-around;
+
 }
-.main-last-icon{
+
+.main-last-icon {
     display: flex;
     align-items: center;
     gap: 15px;
 }
 
-.last-icon{
-    margin:0 15px 20px 0;
+.last-icon {
+    margin: 0 15px 20px 0;
 }
-.last-icon:hover{
+
+.last-icon:hover {
     border: 2px solid #FF42A5;
     border-radius: 40px;
     color: #FF42A5;
     padding: 10px 15px;
 }
+
 /* main-last-section finish */
+footer {
+    background-color: #0B0223;
+}
+
+.footer-container {
+    width: 80%;
+    margin: 20px auto;
+    padding: 50px;
+
+}
+
+.footer-logo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    padding: 20px;
+}
+
+.footer-paragraph {
+    color: #fff;
+    font-size: 30px;
+}
+.footer-text{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    text-align: center;
+    margin-bottom: 20px;
+}
+.footer-text p{
+    color: #fff;
+}
+.footer-icon{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    color: #fff;
+    font-size: 50px;
+   
+}
+.footer-content{
+    margin-top: 20px;
+    display: flex;
+    justify-content:space-evenly;
+    align-items: center;
+    color: #fff;
+}
+.footer-last-paragraph{
+    color: #fff;
+    font-size: 16px;
+    text-align: center;
+}
