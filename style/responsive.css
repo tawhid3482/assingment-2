@@ -9,20 +9,25 @@
     .main-container-3 {
         flex-direction: column;
     }
-    .nav-container{
+
+    .nav-container {
         width: 80%;
-       
+
     }
-    .nav-logo img{
+
+    .nav-logo img {
         width: 40%;
     }
-    .nav-logo, .nav-paragraph{
-        
-     display: flex;
-     justify-content: center;
-     align-items: center;
-      
+
+    .nav-logo,
+    .nav-paragraph {
+
+        display: flex;
+        justify-content: center;
+        align-items: center;
+
     }
+
     .nav-items a {
         margin-bottom: 25px;
     }
@@ -44,7 +49,9 @@
         width: 100%;
         text-align: center;
     }
-    .main-frist-contant ,.main-frist-header-2{
+
+    .main-frist-contant,
+    .main-frist-header-2 {
         font-size: 75px;
         font-weight: b;
     }
@@ -54,9 +61,11 @@
         text-align: center;
         margin-bottom: 50px;
     }
-.main-3-contant h2{
-    font-size: 40px;
-}
+
+    .main-3-contant h2 {
+        font-size: 35px;
+    }
+
     .main-3-contant P {
         text-align: center;
         margin-left: 0px;
@@ -78,11 +87,12 @@
         width: 80%;
 
     }
-   
-    .middle-paragraph{
+
+    .middle-paragraph {
         font-size: 12px;
         text-align: center;
     }
+
     .main-middle-content .main-middle-header {
         font-size: 26px;
     }
@@ -90,7 +100,7 @@
     .main-middle-container .box-under-text {
         width: 100%;
         margin: 1 auto;
-      
+
 
     }
 
@@ -171,14 +181,15 @@
         width: 80%;
 
     }
-.main-frist-header-2{
-    font-size: 75px;
-}
+
+    .main-frist-header-2 {
+        font-size: 75px;
+    }
 
     .main-frist-contant {
         text-align: center;
     }
-   
+
 
     .main-middle-container {
         width: 80%;
