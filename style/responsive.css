@@ -12,7 +12,6 @@
 
     .nav-container {
         width: 80%;
-
     }
 
     .nav-logo img {
@@ -25,7 +24,6 @@
         display: flex;
         justify-content: center;
         align-items: center;
-
     }
 
     .nav-items a {
@@ -34,7 +32,6 @@
 
     .nav-icon {
         display: block;
-
     }
 
     .main-frist-container {
@@ -104,8 +101,6 @@
     .main-middle-container .box-under-text {
         width: 100%;
         margin: 1 auto;
-
-
     }
 
     .main-last-container {
@@ -121,9 +116,7 @@
     }
 
     .last-icon span {
-
         font-weight: 600;
-
     }
 
     .last-icon img {
@@ -204,7 +197,6 @@
         width: 80%;
         text-align: center;
         margin-bottom: 20px;
-
     }
 
     .main-3-contant p {
@@ -238,7 +230,6 @@
     .last-icon span {
         font-size: 17px;
         font-weight: 600;
-
     }
 
     .last-icon img {
